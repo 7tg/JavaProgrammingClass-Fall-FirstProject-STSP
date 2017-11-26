@@ -1,0 +1,17 @@
+Istanbul[Turkey]---280,84km--->Afyon[Turkey]
+Afyon[Turkey]---103,98km--->Aksehir[Turkey]
+Aksehir[Turkey]---263,57km--->Anamur[Turkey]
+Anamur[Turkey]---287,42km--->Adana[Turkey]
+Adana[Turkey]---333,93km--->Amasya[Turkey]
+
+Total Calculation :Istanbul----- 1269,75km ------>Amasya
+
+Amasya[Turkey]---333,93km--->Adana[Turkey]
+Adana[Turkey]---287,42km--->Anamur[Turkey]
+Anamur[Turkey]---263,57km--->Aksehir[Turkey]
+Aksehir[Turkey]---103,98km--->Afyon[Turkey]
+Afyon[Turkey]---280,84km--->Istanbul[Turkey]
+
+Total Calculation Back:Istanbul----- 2258,65km ------>Istanbul
+Number of cities : 6
+Total Running Time :6ms

@@ -1,0 +1,30 @@
+Istanbul[Turkey]---82,43km--->Bursa[Turkey]
+Bursa[Turkey]---214,75km--->Afyon[Turkey]
+Afyon[Turkey]---103,98km--->Aksehir[Turkey]
+Aksehir[Turkey]---161,29km--->Antalya[Turkey]
+Antalya[Turkey]---197,51km--->Denizli[Turkey]
+Denizli[Turkey]---199,34km--->Bodrum[Turkey]
+Bodrum[Turkey]---208,36km--->Bergama[Turkey]
+Bergama[Turkey]---637,48km--->Ankara[Turkey]
+Ankara[Turkey]---337,88km--->Amasya[Turkey]
+Amasya[Turkey]---109,57km--->Carsamba[Turkey]
+Carsamba[Turkey]---399,68km--->Bayburt[Turkey]
+Bayburt[Turkey]---190,53km--->Artvin[Turkey]
+Artvin[Turkey]---764,43km--->Antakya[Turkey]
+Antakya[Turkey]---115,76km--->Adana[Turkey]
+Adana[Turkey]---287,42km--->Anamur[Turkey]
+
+Total Calculation :Istanbul----- 4010,42km ------>Anamur
+
+Anamur[Turkey]---248,06km--->Antalya[Turkey]
+Antalya[Turkey]---161,29km--->Aksehir[Turkey]
+Aksehir[Turkey]---103,98km--->Afyon[Turkey]
+Afyon[Turkey]---186,90km--->Denizli[Turkey]
+Denizli[Turkey]---199,34km--->Bodrum[Turkey]
+Bodrum[Turkey]---208,36km--->Bergama[Turkey]
+Bergama[Turkey]---234,46km--->Bursa[Turkey]
+Bursa[Turkey]---82,43km--->Istanbul[Turkey]
+
+Total Calculation Back:Istanbul----- 5352,80km ------>Istanbul
+Number of cities : 16
+Total Running Time :9ms

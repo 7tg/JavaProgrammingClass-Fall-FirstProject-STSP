@@ -1,0 +1,13 @@
+Istanbul[Turkey]---280,84km--->Afyon[Turkey]
+Afyon[Turkey]---103,98km--->Aksehir[Turkey]
+Aksehir[Turkey]---448,76km--->Adana[Turkey]
+
+Total Calculation :Istanbul----- 833,58km ------>Adana
+
+Adana[Turkey]---448,76km--->Aksehir[Turkey]
+Aksehir[Turkey]---103,98km--->Afyon[Turkey]
+Afyon[Turkey]---280,84km--->Istanbul[Turkey]
+
+Total Calculation Back:Istanbul----- 1386,32km ------>Istanbul
+Number of cities : 4
+Total Running Time :4ms
