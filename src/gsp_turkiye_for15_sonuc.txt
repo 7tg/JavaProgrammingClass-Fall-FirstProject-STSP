@@ -1,0 +1,35 @@
+Istanbul[Turkey]---82,43km--->Bursa[Turkey]
+Bursa[Turkey]---214,75km--->Afyon[Turkey]
+Afyon[Turkey]---103,98km--->Aksehir[Turkey]
+Aksehir[Turkey]---161,29km--->Antalya[Turkey]
+Antalya[Turkey]---248,06km--->Anamur[Turkey]
+Anamur[Turkey]---287,42km--->Adana[Turkey]
+Adana[Turkey]---115,76km--->Antakya[Turkey]
+Antakya[Turkey]---398,79km--->Amasya[Turkey]
+Amasya[Turkey]---109,57km--->Carsamba[Turkey]
+Carsamba[Turkey]---399,68km--->Bayburt[Turkey]
+Bayburt[Turkey]---190,53km--->Artvin[Turkey]
+Artvin[Turkey]---1001,28km--->Ankara[Turkey]
+Ankara[Turkey]---637,48km--->Bergama[Turkey]
+Bergama[Turkey]---208,36km--->Bodrum[Turkey]
+
+Total Calculation :Istanbul----- 4159,38km ------>Bodrum
+
+Bodrum[Turkey]---208,36km--->Bergama[Turkey]
+Bergama[Turkey]---234,46km--->Bursa[Turkey]
+Bursa[Turkey]---82,43km--->Istanbul[Turkey]
+Istanbul[Turkey]---280,84km--->Afyon[Turkey]
+Afyon[Turkey]---103,98km--->Aksehir[Turkey]
+Aksehir[Turkey]---161,29km--->Antalya[Turkey]
+Antalya[Turkey]---248,06km--->Anamur[Turkey]
+Anamur[Turkey]---287,42km--->Adana[Turkey]
+Adana[Turkey]---115,76km--->Antakya[Turkey]
+Antakya[Turkey]---398,79km--->Amasya[Turkey]
+Amasya[Turkey]---109,57km--->Carsamba[Turkey]
+Carsamba[Turkey]---399,68km--->Bayburt[Turkey]
+Bayburt[Turkey]---190,53km--->Artvin[Turkey]
+Artvin[Turkey]---1001,28km--->Ankara[Turkey]
+
+Total Calculation Back:Istanbul----- 7981,83km ------>Ankara
+Number of cities : 15
+Total Runnig Time :24ms
